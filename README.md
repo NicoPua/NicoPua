@@ -4,7 +4,7 @@
 
 ## 📌 ¿Qué me motiva?
 
-Me motiva a seguir adelante la cantidad inmensa de tecnologías nuevas con la que se pueden realizar proyectos y también el poder llegar a realizar algo de impacto positivo en una empresa.
+Me motiva a seguir adelante la cantidad inmensa de tecnologías nuevas con la que se pueden realizar proyectos y también el poder llegar a realizar un proyecto de gran impacto positivo en una empresa.
 
 ## 📌 ¿Cuáles tecnologías utilizo?
 
@@ -20,6 +20,6 @@ Me motiva a seguir adelante la cantidad inmensa de tecnologías nuevas con la qu
 - Redux
 - Context API
 
-## Contact:
--E-mail: nicopua7@gmail.com
--LinkedIn: https://www.linkedin.com/in/gonzalo-nicolas-pua-a962901b6/
+## 📌 Contact:
+- E-mail: nicopua7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gonzalo-nicolas-pua-a962901b6/
