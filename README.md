@@ -8,8 +8,10 @@ Me motiva a seguir adelante la cantidad inmensa de tecnologías nuevas con la qu
 
 ## 📌 ¿Cuáles tecnologías utilizo?
 
-- ReactJS
-- NextJS
+- JavaScript
+- Node JS
+- React JS
+- Next JS
 - CSS Modules
 - Tailwind CSS
 - MongoDB
@@ -19,6 +21,8 @@ Me motiva a seguir adelante la cantidad inmensa de tecnologías nuevas con la qu
 - Express
 - Redux
 - Context API
+
+- A futuro planeo aprender mucho más sobre: TypeScript, Bootstrap, Python y Vue JS.
 
 ## 📌 Contact:
 - E-mail: nicopua7@gmail.com
