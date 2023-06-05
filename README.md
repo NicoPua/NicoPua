@@ -24,7 +24,7 @@ Me motiva a seguir adelante la cantidad inmensa de tecnologías nuevas con la qu
 
 - A futuro planeo aprender mucho más sobre: TypeScript, Bootstrap, Python y Vue JS.
 
-### Backend  
+### Tecnologías
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
