@@ -6,23 +6,27 @@
 
 Me motiva a seguir adelante la cantidad inmensa de tecnologías nuevas con la que se pueden realizar proyectos y también el poder llegar a realizar un proyecto de gran impacto positivo en una empresa.
 
-## 📌 ¿Cuáles tecnologías utilizo?
+## 📌 ¿Cuáles tecnologías y herramientas utilizo?
 
 - JavaScript
+- TypeScript
 - Node JS
 - React JS
 - Next JS
 - CSS Modules
+- CSS Styled Components
 - Tailwind CSS
+- Bootstrap
 - MongoDB
 - Mongoose
 - PostgreSQL
+- SQL
 - Sequelize
-- Express
-- Redux
+- Express JS
+- Redux JS
 - Context API
 
-- A futuro planeo aprender mucho más sobre: TypeScript, Bootstrap, Python y Vue JS.
+- Actualmente planeo aprender mucho más sobre: Angular, PHP, Python, Vue JS, Nest JS.
 
 ### Tecnologías
 <div align="center">  
